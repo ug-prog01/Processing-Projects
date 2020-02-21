@@ -10,3 +10,5 @@ Sort in an visualization of the bubble sort
 Flake is an implementation of a Snowflake fractal
 
 Sketch 4d_to_2d is a spinning tesseract(4D shape analogous to 3D cube)
+
+Sketch 4d_to_2dS is a spinning simplex(4D shape analogous to 3D pyramid)
